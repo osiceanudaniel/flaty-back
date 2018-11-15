@@ -2,73 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd10575-7ad7-4b0b-b48f-dc6d1165a34a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_couchbase_client_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsimone_webapp_runner_8_0_30_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_javakaffee_msm_memcached_session_manager_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_javakaffee_msm_memcached_session_manager_tc8_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_spy_spymemcached_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_api_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_el_api_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jasper_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jasper_el_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_scan_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_4_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/backend-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/backend-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/backend-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/backend-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/helper/DbHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/helper/DbHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/Apartment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/Apartment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/ApartmentUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/ApartmentUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/Association.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/Association.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/AssociationUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/AssociationUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/Building.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/communications/Announce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/communications/Announce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/communications/BuildingObservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/communications/BuildingObservation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/ApartmentExpense.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/ApartmentExpense.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/ExpenseType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/ExpenseType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/Month.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/Month.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/PaymentBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/PaymentBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/WaterMeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/WaterMeter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/WaterMeterRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/WaterMeterRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/WaterMeterType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/WaterMeterType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/payment/ApartmentPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/payment/ApartmentPayment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/payment/PaymentType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/association/expenses/payment/PaymentType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/management/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/management/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/model/management/UserType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/model/management/UserType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/service/blueprints/UserServiceBlueprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/service/blueprints/UserServiceBlueprint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/AnnounceModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/AnnounceModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentExpenseModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentExpenseModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentPaymentModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentPaymentModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentUserModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/ApartmentUserModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/AssociationModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/AssociationModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/AssociationUserModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/AssociationUserModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/BuildingModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/BuildingModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/BuildingObservationModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/BuildingObservationModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/PaymentBoardModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/PaymentBoardModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/UserModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/UserModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/WaterMeterModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/WaterMeterModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/WaterMeterReadModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/flaty/app/shared/WaterMeterReadModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.flaty.app.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.flaty.app.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.flaty.app.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.flaty.app.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/flaty/app/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/flaty/app/AppTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,8 +18,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+            <state relative-caret-position="10">
+              <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -93,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -360,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542313206903</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added web-app dependency">
+      <created>1542314316655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542314316655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -380,7 +322,7 @@
       <window_info anchor="bottom" id="Terminal" weight="0.7668539" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22684564" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22684564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -402,7 +344,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="edit application.properties" />
     <MESSAGE value="edit application.properties with heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit application.properties with heroku" />
+    <MESSAGE value="added web-app dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="added web-app dependency" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/flaty/app/controller/MainController.java">
@@ -446,15 +389,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+        <state relative-caret-position="10">
+          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
