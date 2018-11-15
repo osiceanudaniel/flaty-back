@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar /target/backend-1.0-SNAPSHOT.jar --port $PORT target/*.war
+web: java $JAVA_OPTS -jar /target/dependency/webapp-runner-8.0.30.2.jar --port $PORT target/*.war
